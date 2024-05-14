@@ -1,4 +1,4 @@
-### Friat University Information
+### Firat University Information
 * Provide Group Information
 
 ### Social Links
