@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Friat University
+title: OWASP Firat University
 tags: example-tag
 region: Asia
 country: Turkey
