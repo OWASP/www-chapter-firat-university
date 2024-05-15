@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Firat University
-tags: example-tag
+tags: owaspfirat
 region: Asia
 country: Turkey
 meetup-group:
