@@ -13,7 +13,7 @@ meetup-group:
 Welcome to the OWASP Firat University student chapter! We’re thrilled to welcome you to our community. Fırat University is a state university located in Elazığ, Turkey. The establishment of the university dates back to Elazığ Higher Technical School, which was founded in 1967. Our university stands out with the qualified education it provides especially in the field of engineering. In addition, the first and only Forensic Informatics Engineering department in Turkey is also located in our university. Our Forensic Engineering, Software Engineering and Computer Engineering departments have made significant contributions to the cyber security workforce in Turkey.
 Here at OWASP Firat University, we’re dedicated to fostering a dynamic environment for all things related to Cyber Security. We host a variety of events and activities, including Meetups, conferences, professional speaker series, workshops, job shadowing opportunities, campus visits, alumni interviews, and inspiring presentations. Join us in shaping the future of cybersecurity education and innovation!
 
-![enter image description here](https://owasp.org/www-chapter-firat-university/assets/images/OWASP%20Full%20Logo%20-%20Black.png)
+![enter image description here](https://owasp.org/www-chapter-firat-university/assets/images/OWASP%20Full%20Logo%20-%20Blue.png)
 ## Chapter Information
 OWASP Firat University was established in May 2024 as a Student Chapter.
 Keep watching this space for announcements about upcoming events. For more detailed information about the OWASP Firat University Student Chapter, contact the chapter leaders:
