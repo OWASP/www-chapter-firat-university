@@ -22,6 +22,8 @@ Keep watching this space for announcements about upcoming events. For more detai
  - [Deniz Bektaş](mailto:deniz.bektas@owasp.org)
  - [Erkan Çekiç](mailto:erkan.cekic@owasp.org)
  - [Edanur Erdoğan](mailto:edanur.erdogan@owasp.org)
+ - [Ela Nur Leylek](mailto:elanur.leylek@owasp.org)
+
 
 ## Benefits of Attending Meetings
 -   Networking
