@@ -5,7 +5,7 @@ title: OWASP Firat University
 tags: owaspfirat
 region: Asia
 country: Turkey
-meetup-group:
+meetup-group: owasp-firat-university-chapter
 
 ---
 
