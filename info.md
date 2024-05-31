@@ -4,7 +4,7 @@
 -   [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-firat-university-chapter/)
 * [Kommunity](https://kommunity.com/owasp-firat-university/)
 * [Linkedin](https://www.linkedin.com/company/owasp-firat-university/)
 * [Instagram](https://www.instagram.com/owaspfirat)
