@@ -1,0 +1,30 @@
+leaders:
+  - name: Doç. Dr. Erhan Akbal
+    email: erhan.akbal@owasp.org
+  - name: Deniz Bektas
+    email: deniz.bektas@owasp.org
+    github: bugresearch
+  - name: Erkan Cekic
+    email: erkan.cekic@owasp.org
+  - name: Edanur Erdogan
+    email: edanur.erdogan@owasp.org
+  - name: Ela Nur Leylek
+    email: elanur.leylek@owasp.org
+location:
+  country: Turkey
+  country_code: TR
+  region: Elazığ
+  city: Elazığ
+  latitude: 38.683747350000004
+  longitude: 39.18709995907568
+meetup_group: owasp-firat-university-chapter
+name: OWASP Firat University
+repositories:
+  - name: www-chapter-firat-university
+    url: https://github.com/OWASP/www-chapter-firat-university
+    description: OWASP Foundation web repository
+tags:
+  - owaspfirat
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-firat-university
